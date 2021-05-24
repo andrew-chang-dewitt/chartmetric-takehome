@@ -50,7 +50,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "neat-csv": "^6.0.1"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
